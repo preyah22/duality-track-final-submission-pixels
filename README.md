@@ -8,6 +8,8 @@ Team Members: Priya, Parul Singh, Preeti Rani
 ---
 Dataset: https://drive.google.com/drive/folders/1MdR3GYLBf9oR3adYsHpAoul9P-NeWsP6
 ---
+Colab Notebook: https://colab.research.google.com/drive/1aNd-dSTlLNZPt_9e96MtWJ0q3XmzZD-u?usp=sharing
+---
 ## 📌 Overview
 
 This project focuses on **semantic segmentation of off-road environments** using a deep learning approach.
