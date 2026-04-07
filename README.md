@@ -95,7 +95,7 @@ backbone.eval()
 ### 4. Train the Model
 
 ```python
-python segmentation-model.ipynb
+python Duality_model.ipynb
 ```
 
 ---
