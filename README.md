@@ -4,6 +4,7 @@
 ## Submission by:
 
 Team Name: Pixels
+---
 Team Members: Priya, Parul Singh, Preeti Rani
 ---
 Dataset: https://drive.google.com/drive/folders/1MdR3GYLBf9oR3adYsHpAoul9P-NeWsP6
