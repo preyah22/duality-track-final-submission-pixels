@@ -2,6 +2,7 @@
 # 🚀 Duality Track : Offroad Semantic Segmentation using DINOv2
 
 ## Submission by:
+
 Team Name: Pixels
 ---
 Team Members: Priya, Parul Singh, Preeti Rani
@@ -95,7 +96,7 @@ backbone.eval()
 ### 4. Train the Model
 
 ```python
-python segmentation-model.ipynb
+python Duality_model.ipynb
 ```
 
 ---
